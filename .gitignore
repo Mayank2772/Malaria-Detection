@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# macOS
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Dataset
+cell_images/
+
+# Trained models
+*.keras
+*.h5
+
+# Temporary files
+*.log
+*.tmp
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Generated images
+gradcam_output.png
+
+# Environment variables
+.env
+.env.*
